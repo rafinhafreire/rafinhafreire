@@ -1,7 +1,9 @@
 ## Oi eu sou a Rafaela
 
 <ul>
+  
   <li>Técnico em Informática (2022 - 2024 )
+
 
 <div align="center">
   <a href="https://github.com/rafinhafreire">
