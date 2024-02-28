@@ -1,12 +1,12 @@
-### Olá! eu sou Fábio Júnior!!👋
+### Olá! eu sou a Rafaela Freire!!👋
 
 <ul>
-  <li>Técnico em Informática (2020 - 2022 IFMT)</li>
-  <li>Engenharia da Computação (2022 - 2027 IFMT)</li>
+  <li>Técnico em Informática (2022 - 2024 IFMT)</li>
+  
 </ul>
 
 <div align="center">
-  <a href="https://github.com/Fabio-jr-SM">
+  <a href="https://github.com/rafinhafreire">
     
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafinhafreire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
