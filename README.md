@@ -8,9 +8,9 @@
 <div align="center">
   <a href="https://github.com/Fabio-jr-SM">
     
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fabio-jr-SM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafinhafreire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fabio-jr-SM&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafinhafreire&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
